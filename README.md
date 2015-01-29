@@ -1,2 +1,2 @@
 # beta
-Grapeseedwine.com front end beta
+Grapeseedwine.com the front-end beta
